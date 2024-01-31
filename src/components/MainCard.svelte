@@ -25,7 +25,7 @@
 
 </style>
 <div class="maincard__wrap">
-    <div class="maincard__wrap__main">\
+    <div class="maincard__wrap__main">
         <!--이하 카드 자체의 영역-->
         <div class ="maincard__border">
             <div class="maincard__main">
