@@ -1,0 +1,23 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+import MainCard from '../components/MainCard.svelte'
+---
+<body>
+    <main>
+        <div class="background_">
+            <MainCard/>
+        </div>
+    </main>
+    <style>
+        body{
+            margin: 0;
+            height:100dvh;
+        }
+        .background_{
+            background-color: rgb(43, 43, 43);
+            height:100dvh;
+
+        }
+    </style>
+</body>
