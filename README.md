@@ -3,6 +3,8 @@
 - 웹-명함 프로젝트
 - 마신거 : 연태고량주 30%
 
+> 쓰다써 세상
+
 ## Astro Starter Kit: Basics
 
 ```sh
