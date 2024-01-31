@@ -1,4 +1,9 @@
-# Astro Starter Kit: Basics
+# 음주코딩하고 만드는
+
+- 웹-명함 프로젝트
+- 마신거 : 연태고량주 30%
+
+## Astro Starter Kit: Basics
 
 ```sh
 npm create astro@latest -- --template basics
