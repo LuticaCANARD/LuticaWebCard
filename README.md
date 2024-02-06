@@ -7,6 +7,9 @@
 
 - [경기천년제목체](https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288414&menuNo=200195) 사용하였음.
 
+## 차후계획
+- 카드반전 (github 블로그 스택사진에 대한 완성)
+
 ## Astro Starter Kit: Basics
 
 ```sh
