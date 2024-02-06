@@ -26,19 +26,19 @@
         height: 100%;
     }
     .maincard__border{
-        padding-bottom : min(80%,500px);
+        padding-bottom : min(100%,500px);
         position: relative;
         width: 809px;
         border: #555555 1px solid;
-        border-radius: 10px;
-        background-color:white;
-        
+        border-radius: 2%;        
     }
     .shadow-drop-lr {
         -webkit-animation: shadow-drop-lr 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
         animation: shadow-drop-lr 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
     }
     .card__inside{
+        border-radius: 2%;
+
         position:absolute;
         display: flex;
         flex-direction: column;
@@ -71,6 +71,8 @@
         flex-direction: column;
     }
     .main_container{
+        margin-left : 5%;
+        margin-top : 5%;
         padding : 2%;
     }
     .article > a{
@@ -112,13 +114,13 @@
 </style>
 <div class="maincard__wrap">
     <div class="maincard__wrap__main">
-        <div class="maincard__border shadow-drop-lr ">
+        <div class="maincard__border shadow-drop-lr">
             <div class="card__inside">
                 <!-- 이하 카드 본문 -->
                 <div class="main_container">
                     <div>
                         <h3 class = "nick_name">
-                            Software Developer.
+                            Software Developer
                         </h3>
                         <h1 class = "nick_name">
                             Lutica_CANARD
@@ -126,16 +128,16 @@
                     </div>
                     <div class = "stack">
                         <p1 class = "stack_name">
-                            Node.js / 
+                            Node.js
                         </p1>
-                        <p2 class = "stack_name">
-                            C#, Unity, Svelte, PostgreSQL
-                        </p2>
+                        <p3 class = "stack_name">
+                            C#, Unity, Svelte, PostgreSQL, Redis
+                        </p3>
                     </div> 
                 </div>
                 <div class="article_div">
                     <p1 class= "article">
-                        I'm Living in paju, nearby Seoul, korea.
+                        I'm Living in paju, nearby Seoul, Korea.
                     </p1>
                     <p2 class= "article">
                         This card is using <a href="https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288411&menuNo=200195">경기천년제목체B</a>
