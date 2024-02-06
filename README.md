@@ -5,6 +5,8 @@
 
 > 쓰다써 세상
 
+- [경기천년제목체](https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288414&menuNo=200195) 사용하였음.
+
 ## Astro Starter Kit: Basics
 
 ```sh
