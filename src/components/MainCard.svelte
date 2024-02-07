@@ -127,7 +127,7 @@
                             Software Developer
                         </h3>
                         <h4 class = "nick_name" style="margin:0">
-                            <a href="https://kr.conquerx2.com/">Nano Interactive</a>
+                            <a href="https://x.com/VCApi_Proj">VCAP</a> / <a href="https://x.com/TalesOfCasino">ToC 1F</a>
                         </h4>
                         <h1 class = "nick_name">
                             <a href="https://github.com/LuticaCANARD">Lutica_CANARD</a>
