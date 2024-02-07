@@ -144,7 +144,7 @@
                 </div>
                 <div class="article_div">
                     <p1 class= "article">
-                        I'm Living in <a href="https://maps.app.goo.gl/393ewhYvVzh1f6qQ6">paju</a>, nearby <a href="https://maps.app.goo.gl/jSAL18mFud9hi42k7">Seoul, Korea.</a>
+                        I'm Living in <a href="https://maps.app.goo.gl/393ewhYvVzh1f6qQ6">paju</a>, near <a href="https://maps.app.goo.gl/jSAL18mFud9hi42k7">Seoul, Korea.</a>
                     </p1>
                     <p2 class= "article">
                         This card is using <a href="https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288411&menuNo=200195">경기천년제목체B</a>
