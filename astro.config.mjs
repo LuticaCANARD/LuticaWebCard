@@ -8,5 +8,12 @@ import cloudflare from "@astrojs/cloudflare";
 export default defineConfig({
   integrations: [svelte(), react()],
   output: "server",
-  adapter: cloudflare()
+  adapter: cloudflare(),
+  vite: {
+    resolve: {
+      alias: import.meta.env.PROD && {
+        "react-dom/server": "react-dom/server.edge",
+      },
+    },
+  }
 });
