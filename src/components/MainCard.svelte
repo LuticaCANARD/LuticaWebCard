@@ -60,12 +60,22 @@
         font-family:'Luticaprofile';
         margin: 4px
     }
+    .article_bottom{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        padding-top: 2%;
+        padding-bottom :2%;
+        width: 100%;
+    }
     .article_div{
         color : white;
         font-family:'Luticaprofile';
         display:flex;
         flex-direction:column;
-        padding :2%;
+        padding-left: 2%;
+        padding-right: 2%;
     }
     .stack{
         display:flex;
@@ -185,23 +195,36 @@
                         </h1>
                     </div>
                     <div class = "stack">
-                        <p1 class = "stack_name">
-                            Node.js
-                        </p1>
+                        <h3 class = "stack_name">
+                            Rust
+                        </h3>
                         <p3 class = "stack_name">
-                            C#, Unity, Svelte, PostgreSQL, Redis
+                            Node.js, Svelte, Bun <br/> 
+                            PostgreSQL, Redis, AWS, Docker <br/>
+                            C#, Unity <br/> 
                         </p3>
+                        <p4 class = "stack_name">
+                            I interested in Server & GPU Programming 
+                        </p4>
+
                     </div> 
                 </div>
-                <div class="article_div">
-                    <p1 class= "article">
-                        I'm Living in <a href="https://maps.app.goo.gl/393ewhYvVzh1f6qQ6">paju</a>, near <a href="https://maps.app.goo.gl/jSAL18mFud9hi42k7">Seoul, Korea.</a>
-                    </p1>
-                    <p2 class= "article">
-                        This card is using <a href="https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288411&menuNo=200195">경기천년제목체</a>
-                    </p2>
-                    
+                <div class="article_bottom">
+                    <div class="article_div">
+                        <p1 class= "article">
+                            I'm Living in <a href="https://maps.app.goo.gl/393ewhYvVzh1f6qQ6">paju</a>, near <a href="https://maps.app.goo.gl/jSAL18mFud9hi42k7">Seoul, Korea.</a>
+                        </p1>
+                        <p2 class= "article">
+                            This card is using <a href="https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=13288411&menuNo=200195">경기천년제목체</a>
+                        </p2>
+                    </div>
+                    <div class="article_div">
+                        <p1 class= "article">
+                            presan100@gmail.com
+                        </p1>
+                    </div>
                 </div>
+                
             </div>
         </div>
     </div>
